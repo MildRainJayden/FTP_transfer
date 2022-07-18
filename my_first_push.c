@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-void main（）
+void main ()
 {
-	int i；
+	int i=0;
 	i++;
-	printf(i);
-	return 0;
+	printf("------------\n");
+	printf("%d\n",i);
 }
