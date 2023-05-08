@@ -1,0 +1,2 @@
+C:\Users\11541\Desktop\计算机网络作业\FtpFile Transfer\server\Debug\server.exe
+C:\Users\11541\Desktop\计算机网络作业\FtpFile Transfer\server\Debug\server.pdb
