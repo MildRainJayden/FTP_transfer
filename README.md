@@ -1,3 +1,3 @@
-# 计算机网络课设实验
+# FTP文件传输
 
-实现 一个ftp传输器，将client与server互传文件，理论上支持所有格式
+使用socket编程，实现一个ftp传输器，将client与server互传文件，理论上支持所有格式
